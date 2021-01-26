@@ -1,0 +1,63 @@
+.home {
+    text-decoration: none;
+    color: black;
+}
+.home:hover{
+    color: black;
+}
+.grid-img {
+    height: 500px;
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
+.img-1 {
+    background-image: url("https://media.nature.com/lw800/magazine-assets/d41586-020-01430-5/d41586-020-01430-5_17977552.jpg");
+}
+.img-2{
+    background-image: url("https://www.surforsound.com/media/3340016/surf-or-sound-realty-salty-dog-beach-house-869-exterior.jpg");
+}
+.img-3{
+    background-image: url("https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/assets/v3/editorial/7/9b/79bc0331-e165-5049-98a3-560d5e0dbeb9/5da4c4ff352ab.image.jpg?resize=1200%2C900");
+}
+.img-4{
+    background-image: url("https://www.visitaparadise.com/wp-content/themes/yootheme/cache/sunset-d863fdd4.jpeg");
+}
+.img-5{
+    background-image: url("https://www.telegraph.co.uk/content/dam/olympics/2019/04/11/TELEMMGLPICT000193139806_trans_NvBQzQNjv4BqrCS9JVgwgb8GODK1xmD4xv3f1_6iqckMfyL6o26qjTQ.jpeg");
+}
+.img-6{
+    background-image: url("https://i.guim.co.uk/img/media/20098ae982d6b3ba4d70ede3ef9b8f79ab1205ce/0_0_969_581/master/969.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=a368f449b1cc1f37412c07a1bd901fb5");
+}
+.img-7{
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/beach-quotes-1559667853.jpg");
+}
+.img-8{
+    background-image: url("https://cdn-japantimes.com/wp-content/uploads/2021/01/np_file_64727.jpeg");
+}
+.img-9{
+    background-image: url("https://www.coogfans.com/uploads/db5902/original/3X/8/1/81173237ffa580ef710b0862fdddaac163274db1.jpeg");
+}
+.card {
+    height: 650px;
+    width: 700px;
+    font-size: 18px;
+}
+.comment, .date {
+    color: gray;
+}
+img {
+    max-height: 450px;
+}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #6c757d;
+}
+.nav-link {
+    color: #6c757d;
+}
+.nav-link:hover {
+    background-color: lightgray;
+    color: #6c757d;
+    text-decoration: none;
+}
